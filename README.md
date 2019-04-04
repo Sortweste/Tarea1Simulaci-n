@@ -3,3 +3,5 @@
 Al ser elementos de longitudes diferentes, nuestra longitud será la distancia del nodo siguiente menos nuestro nodo actual:
 
 # d = x(i+1) - x(i)
+
+El archivo pdf se encuentra entre los archivos de este repositorio
